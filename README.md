@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @virurathore
 - 👀 I’m interested in MERN Stack development
-- 🌱 I’m currently learning AWS Solution Architect.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
